@@ -1,0 +1,3 @@
+This is file which describe all the commit status 
+1-make javascript animation with the help of css keyframes to make raining animation
+Now the problem arises that animation start suddebly when it goes to its initial stage for example when 1st animation end and property goes to its origunal state to again start animation it happen suddenly which make these whole animation sslightly poor
